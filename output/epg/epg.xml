@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250710035743 +0800">
+<tv date="20250710102759 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -30138,6 +30138,18 @@
 	<programme channel="黑莓动画" start="20250710100100 +0800" stop="20250710112700 +0800">
 		<title lang="zh">奇妙萌可大电影</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250710112700 +0800" stop="20250710125400 +0800">
+		<title lang="zh">葫芦兄弟电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250710125400 +0800" stop="20250710135400 +0800">
+		<title lang="zh">哪吒闹海</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250710135400 +0800" stop="20250710151600 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250710151600 +0800" stop="20250710163800 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -30158,6 +30170,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250710090500 +0800" stop="20250710110100 +0800">
 		<title lang="zh">闺蜜疯上路</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250710110100 +0800" stop="20250710122500 +0800">
+		<title lang="zh">重案行动之捣毒任务</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250710122500 +0800" stop="20250710142600 +0800">
+		<title lang="zh">非凡任务</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250710142600 +0800" stop="20250710162700 +0800">
+		<title lang="zh">逆行人生</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
