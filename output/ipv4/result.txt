@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-12 10:20:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-07-12 18:14:39,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -8,6 +8,7 @@ CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
@@ -33,14 +34,8 @@ CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 
 🏀体育频道,#genre#
-风云足球,http://115.150.63.77:9902/tsfile/live/1028_1.m3u8
-风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
-风云足球,http://183.11.239.36:808/hls/133/index.m3u8
-风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
-风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
-风云足球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227000/86128919.smil
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🎮游戏频道,#genre#
 
