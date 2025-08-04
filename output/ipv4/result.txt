@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-04 06:15:28,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-04 18:19:28,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -34,5 +34,4 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 🎮游戏频道,#genre#
 
 🏛经典剧场,#genre#
-鹿鼎记,http://47.102.149.208:35455/yy/28265277
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
