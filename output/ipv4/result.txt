@@ -1,22 +1,35 @@
 🕘️更新时间,#genre#
-2025-08-29 06:13:53,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-29 18:14:54,http://8.134.110.147:5300/?id=cctv1
 
 📺央视频道,#genre#
+CCTV-1,http://8.134.110.147:5300/?id=cctv1
+CCTV-2,http://8.134.110.147:5300/?id=cctv2
+CCTV-3,http://8.134.110.147:5300/?id=cctv3
+CCTV-4,http://8.134.110.147:5300/?id=cctv4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-6,http://8.134.110.147:5300/?id=cctv6
+CCTV-7,http://8.134.110.147:5300/?id=cctv7
+CCTV-13,http://8.134.110.147:5300/?id=cctv13
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+广东卫视,http://8.134.110.147:5300/?id=gdws
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://8.134.110.147:5300/?id=dfws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://8.134.110.147:5300/?id=hnws
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海第一财经,http://8.134.110.147:5300/?id=dycj
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 
 ☘️江苏频道,#genre#
+南京十八,http://8.134.110.147:5300/?id=njsb
+南京教科,http://8.134.110.147:5300/?id=njkj
+南京新闻综合,http://8.134.110.147:5300/?id=njxwzh
 
 ☘️河南频道,#genre#
 
