@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-20 18:14:04,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-09-21 06:11:34,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -29,7 +29,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🎮游戏频道,#genre#
-游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
 
 🏛经典剧场,#genre#
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
