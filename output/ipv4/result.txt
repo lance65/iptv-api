@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-01 18:14:45,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-10-02 06:13:44,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -7,6 +7,7 @@
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://60.16.0.216:5757/hls/42/index.m3u8
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -25,6 +26,7 @@
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 
 🏀体育频道,#genre#
+JJ斗地主,http://211.101.246.236:35455/huya/14079954
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
