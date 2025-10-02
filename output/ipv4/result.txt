@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-02 06:13:44,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-10-02 18:13:42,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -7,7 +7,6 @@
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://60.16.0.216:5757/hls/42/index.m3u8
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
