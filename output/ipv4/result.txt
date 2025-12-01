@@ -1,12 +1,17 @@
 🕘️更新时间,#genre#
-2025-12-01 18:17:27,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-12-02 06:13:29,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
 
 📺央视频道,#genre#
+CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8
+河南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 
 ☘️上海频道,#genre#
@@ -25,6 +30,7 @@
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 
 🏀体育频道,#genre#
+睛彩广场舞,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
 
 🎮游戏频道,#genre#
 
