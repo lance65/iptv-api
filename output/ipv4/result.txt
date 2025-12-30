@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-30 18:17:01,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-12-31 06:14:32,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -26,6 +26,7 @@
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 
 🏀体育频道,#genre#
+风云足球,http://27.41.245.32:801/hls/906/index.m3u8
 
 🎮游戏频道,#genre#
 
