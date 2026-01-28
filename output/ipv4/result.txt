@@ -1,16 +1,19 @@
 🕘️更新时间,#genre#
-2026-01-28 06:17:09,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-28 18:21:49,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
+广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
