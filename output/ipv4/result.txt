@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-27 18:30:46,http://74.91.26.218:82/live/cctv4hd.m3u8
+2026-02-28 06:17:00,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
