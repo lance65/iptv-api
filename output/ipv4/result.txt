@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-20 20:16:25,http://cjcrcb.top:65500/udp/238.125.0.189:5140
+2026-05-21 07:06:45,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-13,http://cjcrcb.top:65500/udp/238.125.0.189:5140
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
