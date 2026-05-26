@@ -1,13 +1,17 @@
 🕘️更新时间,#genre#
-2026-05-26 06:53:45,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-05-27 07:03:27,http://101.66.199.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://101.66.199.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7,http://101.66.199.183:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7,http://101.66.199.101:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://101.66.199.101:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️上海频道,#genre#
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
