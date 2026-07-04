@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260703225624 +0800">
+<tv date="20260704112019 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5703,6 +5703,93 @@
 	<programme channel="法治天地" start="20260706012000 +0800" stop="20260706014500 +0800">
 		<title lang="zh">案件聚焦:虚假人设的背后</title>
 	</programme>
+	<programme channel="法治天地" start="20260706014500 +0800" stop="20260706022000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706022000 +0800" stop="20260706024000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706024000 +0800" stop="20260706030500 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706030500 +0800" stop="20260706033000 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
+	<programme channel="法治天地" start="20260706033000 +0800" stop="20260706035000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706035000 +0800" stop="20260706042000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706042000 +0800" stop="20260706045000 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706045000 +0800" stop="20260706051000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706051000 +0800" stop="20260706053000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706053000 +0800" stop="20260706060500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706060500 +0800" stop="20260706063000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706063000 +0800" stop="20260706070000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706070000 +0800" stop="20260706072500 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
+	<programme channel="法治天地" start="20260706072500 +0800" stop="20260706073500 +0800">
+		<title lang="zh">庭前庭后Ⅳ(5)</title>
+	</programme>
+	<programme channel="法治天地" start="20260706073500 +0800" stop="20260706080500 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706080500 +0800" stop="20260706083000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706083000 +0800" stop="20260706090500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706090500 +0800" stop="20260706093500 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706093500 +0800" stop="20260706100000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706100000 +0800" stop="20260706102000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706102000 +0800" stop="20260706103000 +0800">
+		<title lang="zh">庭前庭后Ⅳ(5)</title>
+	</programme>
+	<programme channel="法治天地" start="20260706103000 +0800" stop="20260706110000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706110000 +0800" stop="20260706112000 +0800">
+		<title lang="zh">安澜长江(1)</title>
+	</programme>
+	<programme channel="法治天地" start="20260706112000 +0800" stop="20260706114000 +0800">
+		<title lang="zh">律师界(4):失控的智能车</title>
+	</programme>
+	<programme channel="法治天地" start="20260706114000 +0800" stop="20260706120000 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
+	<programme channel="法治天地" start="20260706120000 +0800" stop="20260706123500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260706123500 +0800" stop="20260706130000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260706130000 +0800" stop="20260706133000 +0800">
+		<title lang="zh">案件聚焦:虚假人设的背后</title>
+	</programme>
+	<programme channel="法治天地" start="20260706133000 +0800" stop="20260706135500 +0800">
+		<title lang="zh">安澜长江</title>
+	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
 	</channel>
@@ -6697,6 +6784,69 @@
 		<title lang="zh">游戏大厅</title>
 	</programme>
 	<programme channel="游戏风云" start="20260706013000 +0800" stop="20260706014500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706014500 +0800" stop="20260706020000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706020000 +0800" stop="20260706040000 +0800">
+		<title lang="zh">巅峰赛场</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706040000 +0800" stop="20260706043000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706043000 +0800" stop="20260706050000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706050000 +0800" stop="20260706051500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706051500 +0800" stop="20260706053000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706053000 +0800" stop="20260706054500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706054500 +0800" stop="20260706060000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706060000 +0800" stop="20260706080000 +0800">
+		<title lang="zh">巅峰赛场</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706080000 +0800" stop="20260706083000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706083000 +0800" stop="20260706090000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706090000 +0800" stop="20260706091500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706091500 +0800" stop="20260706093000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706093000 +0800" stop="20260706094500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706094500 +0800" stop="20260706100000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706100000 +0800" stop="20260706120000 +0800">
+		<title lang="zh">巅峰赛场</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706120000 +0800" stop="20260706123000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706123000 +0800" stop="20260706130000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706130000 +0800" stop="20260706131500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706131500 +0800" stop="20260706133000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260706133000 +0800" stop="20260706134500 +0800">
 		<title lang="zh">游戏大厅</title>
 	</programme>
 </tv>
