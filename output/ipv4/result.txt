@@ -1,20 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-07 20:23:50,http://123.163.114.168:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-08 06:54:16,http://183.129.255.66:8480/hls/6/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://123.163.114.168:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://222.223.41.27:8888/hls/7/index.m3u8
-CCTV-13,http://123.163.114.168:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
-CCTV-13,http://60.10.139.113:8801/hls/12/index.m3u8
-CCTV-13,http://101.66.199.29:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+,http://183.129.255.66:8480/hls/6/index.m3u8
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 
 ☘️上海频道,#genre#
