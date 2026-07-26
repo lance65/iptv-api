@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260725224515 +0800">
+<tv date="20260726111516 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3774,9 +3774,6 @@
 	<programme channel="法治天地" start="20260727012000 +0800" stop="20260727014500 +0800">
 		<title lang="zh">案件聚焦:从高材生到阶下囚</title>
 	</programme>
-	<programme channel="法治天地" start="20260727012000 +0800" stop="20260727014500 +0800">
-		<title lang="zh">案件聚焦:从高材生到阶下囚</title>
-	</programme>
 	<programme channel="法治天地" start="20260727014500 +0800" stop="20260727022000 +0800">
 		<title lang="zh">和大律师面对面(5066):郑健</title>
 	</programme>
@@ -3860,6 +3857,9 @@
 	</programme>
 	<programme channel="法治天地" start="20260727130000 +0800" stop="20260727133000 +0800">
 		<title lang="zh">案件聚焦:从高材生到阶下囚</title>
+	</programme>
+	<programme channel="法治天地" start="20260727133000 +0800" stop="20260727135500 +0800">
+		<title lang="zh">法治新闻特别节目:见义勇为特辑</title>
 	</programme>
 	<programme channel="法治天地" start="20260727133000 +0800" stop="20260727135500 +0800">
 		<title lang="zh">法治新闻特别节目:见义勇为特辑</title>
@@ -4683,9 +4683,6 @@
 	<programme channel="游戏风云" start="20260727013000 +0800" stop="20260727014500 +0800">
 		<title lang="zh">游戏大厅:幽暗迷宫6(1)</title>
 	</programme>
-	<programme channel="游戏风云" start="20260727013000 +0800" stop="20260727014500 +0800">
-		<title lang="zh">游戏大厅:幽暗迷宫6(1)</title>
-	</programme>
 	<programme channel="游戏风云" start="20260727014500 +0800" stop="20260727020000 +0800">
 		<title lang="zh">游戏大厅:幽暗迷宫6(2)</title>
 	</programme>
@@ -4745,6 +4742,9 @@
 	</programme>
 	<programme channel="游戏风云" start="20260727131500 +0800" stop="20260727133000 +0800">
 		<title lang="zh">游戏大厅:雨中冒险2(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727133000 +0800" stop="20260727134500 +0800">
+		<title lang="zh">游戏大厅:雨中冒险2(3)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260727133000 +0800" stop="20260727134500 +0800">
 		<title lang="zh">游戏大厅:雨中冒险2(3)</title>
