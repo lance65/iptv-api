@@ -1,56 +1,29 @@
 🕘️更新时间,#genre#
-2026-08-09 18:27:31,http://116.113.36.219:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-10 06:23:25,http://116.113.72.150:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://116.113.36.219:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://116.113.72.150:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://182.123.208.111:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
-CCTV-2,http://120.7.86.96:808/hls/2/index.m3u8
+CCTV-2,http://116.113.36.219:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://139.227.21.22:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://182.123.208.111:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
-CCTV-3,http://120.7.86.96:808/hls/3/index.m3u8
-CCTV-4,http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-CCTV-4,http://182.123.208.111:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://112.30.73.119:229/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
-CCTV-5,http://120.7.86.96:808/hls/5/index.m3u8
-CCTV-5,http://182.123.208.111:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://120.40.39.246:352/newlive/live/hls/6/live.m3u8
-CCTV-5+,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
-CCTV-5+,http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
-CCTV-5+,http://58.56.162.102:4466/newlive/live/hls/6/live.m3u8
-CCTV-6,http://219.147.245.238:25480/newlive/live/hls/7/live.m3u8
-CCTV-6,http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
-CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
-CCTV-6,http://113.101.119.74:8090/hls/118/index.m3u8
-CCTV-6,http://120.7.86.96:808/hls/6/index.m3u8
-CCTV-7,http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
-CCTV-7,http://120.7.86.96:808/hls/7/index.m3u8
-CCTV-7,http://182.123.208.111:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://120.7.86.96:808/hls/13/index.m3u8
-CCTV-13,http://182.123.208.111:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://123.118.53.84:45237/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://113.101.119.74:8090/hls/116/index.m3u8
+CCTV-4,http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+CCTV-5,http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://120.7.86.96:808/hls/16/index.m3u8
+CCTV-7,http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
+CCTV-13,http://123.118.55.165:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
-广东卫视,http://58.56.162.102:4466/newlive/live/hls/34/live.m3u8
-广东卫视,http://182.123.208.111:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://120.7.86.96:808/hls/23/index.m3u8
+广东卫视,http://120.40.39.246:352/newlive/live/hls/34/live.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://113.57.140.161:10081/newlive/live/hls/30/live.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://120.7.86.96:808/hls/24/index.m3u8
 北京卫视,http://139.227.21.22:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://182.123.208.111:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://113.57.140.161:10081/newlive/live/hls/36/live.m3u8
-湖北卫视,http://58.56.162.102:4466/newlive/live/hls/36/live.m3u8
-湖北卫视,http://120.7.86.96:808/hls/29/index.m3u8
-湖北卫视,http://182.123.208.111:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
-东方卫视,http://120.7.86.96:808/hls/25/index.m3u8
-河南卫视,http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://182.123.208.111:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
+河南卫视,http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️上海频道,#genre#
 
