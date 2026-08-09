@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260808222017 +0800">
+<tv date="20260809102731 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3793,7 +3793,7 @@
 		<title lang="zh">庭前庭后(6):温度</title>
 	</programme>
 	<programme channel="法治天地" start="20260810030500 +0800" stop="20260810033000 +0800">
-		<title lang="zh">法治新闻</title>
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
 	</programme>
 	<programme channel="法治天地" start="20260810033000 +0800" stop="20260810035000 +0800">
 		<title lang="zh">律师界(10):竞业限制新规解读</title>
@@ -3820,7 +3820,7 @@
 		<title lang="zh">和大律师面对面(5080):郑建</title>
 	</programme>
 	<programme channel="法治天地" start="20260810070000 +0800" stop="20260810072500 +0800">
-		<title lang="zh">法治新闻</title>
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
 	</programme>
 	<programme channel="法治天地" start="20260810072500 +0800" stop="20260810073500 +0800">
 		<title lang="zh">庭前庭后Ⅳ(12)</title>
@@ -3856,7 +3856,7 @@
 		<title lang="zh">律师界(10):竞业限制新规解读</title>
 	</programme>
 	<programme channel="法治天地" start="20260810114000 +0800" stop="20260810120000 +0800">
-		<title lang="zh">法治新闻</title>
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
 	</programme>
 	<programme channel="法治天地" start="20260810120000 +0800" stop="20260810123500 +0800">
 		<title lang="zh">和大律师面对面(3355):孙鸣民</title>
@@ -3868,7 +3868,73 @@
 		<title lang="zh">案件聚焦:火眼神探</title>
 	</programme>
 	<programme channel="法治天地" start="20260810133000 +0800" stop="20260810135500 +0800">
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
+	</programme>
+	<programme channel="法治天地" start="20260810133000 +0800" stop="20260810135500 +0800">
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
+	</programme>
+	<programme channel="法治天地" start="20260810135500 +0800" stop="20260810150500 +0800">
+		<title lang="zh">庭前庭后(6):温度</title>
+	</programme>
+	<programme channel="法治天地" start="20260810150500 +0800" stop="20260810151500 +0800">
+		<title lang="zh">庭前庭后Ⅳ(12)</title>
+	</programme>
+	<programme channel="法治天地" start="20260810151500 +0800" stop="20260810154500 +0800">
+		<title lang="zh">和大律师面对面(5080):郑建</title>
+	</programme>
+	<programme channel="法治天地" start="20260810154500 +0800" stop="20260810161000 +0800">
+		<title lang="zh">安澜长江(6)</title>
+	</programme>
+	<programme channel="法治天地" start="20260810161000 +0800" stop="20260810163500 +0800">
+		<title lang="zh">律师界(10):竞业限制新规解读</title>
+	</programme>
+	<programme channel="法治天地" start="20260810163500 +0800" stop="20260810170500 +0800">
+		<title lang="zh">案件聚焦:火眼神探</title>
+	</programme>
+	<programme channel="法治天地" start="20260810170500 +0800" stop="20260810173000 +0800">
+		<title lang="zh">庭前庭后(6):温度</title>
+	</programme>
+	<programme channel="法治天地" start="20260810173000 +0800" stop="20260810175000 +0800">
+		<title lang="zh">律师界(10):竞业限制新规解读</title>
+	</programme>
+	<programme channel="法治天地" start="20260810175000 +0800" stop="20260810180000 +0800">
+		<title lang="zh">庭前庭后Ⅳ(12)</title>
+	</programme>
+	<programme channel="法治天地" start="20260810180000 +0800" stop="20260810183000 +0800">
+		<title lang="zh">和大律师面对面(3365):洁蕙</title>
+	</programme>
+	<programme channel="法治天地" start="20260810183000 +0800" stop="20260810185000 +0800">
 		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260810185000 +0800" stop="20260810191500 +0800">
+		<title lang="zh">案件聚焦:火眼神探</title>
+	</programme>
+	<programme channel="法治天地" start="20260810191500 +0800" stop="20260810201500 +0800">
+		<title lang="zh">律师界(10):竞业限制新规解读</title>
+	</programme>
+	<programme channel="法治天地" start="20260810201500 +0800" stop="20260810204000 +0800">
+		<title lang="zh">安澜长江(7)</title>
+	</programme>
+	<programme channel="法治天地" start="20260810204000 +0800" stop="20260810210500 +0800">
+		<title lang="zh">律师界(3):违法的数字人</title>
+	</programme>
+	<programme channel="法治天地" start="20260810210500 +0800" stop="20260810213000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(1):心墙</title>
+	</programme>
+	<programme channel="法治天地" start="20260810213000 +0800" stop="20260810214000 +0800">
+		<title lang="zh">禁毒视窗(484)</title>
+	</programme>
+	<programme channel="法治天地" start="20260810214000 +0800" stop="20260810220000 +0800">
+		<title lang="zh">律师界(3):违法的数字人</title>
+	</programme>
+	<programme channel="法治天地" start="20260810220000 +0800" stop="20260810223000 +0800">
+		<title lang="zh">和大律师面对面(5092):郑建</title>
+	</programme>
+	<programme channel="法治天地" start="20260810223000 +0800" stop="20260810233900 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260810233900 +0800" stop="20260811000000 +0800">
+		<title lang="zh">案件聚焦:火眼神探</title>
 	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
@@ -4802,5 +4868,56 @@
 	</programme>
 	<programme channel="游戏风云" start="20260810133000 +0800" stop="20260810134500 +0800">
 		<title lang="zh">游戏大厅:第3000次决斗(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810133000 +0800" stop="20260810134500 +0800">
+		<title lang="zh">游戏大厅:第3000次决斗(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810134500 +0800" stop="20260810140000 +0800">
+		<title lang="zh">游戏大厅:第五人格(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810140000 +0800" stop="20260810160000 +0800">
+		<title lang="zh">巅峰赛场:2022艾欧尼亚杯(18)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810160000 +0800" stop="20260810163000 +0800">
+		<title lang="zh">休闲街区:侦探大迷宫(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810163000 +0800" stop="20260810170000 +0800">
+		<title lang="zh">休闲街区:侦探大迷宫(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810170000 +0800" stop="20260810171500 +0800">
+		<title lang="zh">游戏大厅:第五人格(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810171500 +0800" stop="20260810173000 +0800">
+		<title lang="zh">游戏大厅:第五人格(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810173000 +0800" stop="20260810174500 +0800">
+		<title lang="zh">游戏大厅:虫虫学院(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810174500 +0800" stop="20260810180000 +0800">
+		<title lang="zh">游戏大厅:方块逃脱(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810180000 +0800" stop="20260810200000 +0800">
+		<title lang="zh">巅峰赛场:2022艾欧尼亚杯(19)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810200000 +0800" stop="20260810203000 +0800">
+		<title lang="zh">休闲街区:雪场大亨</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810203000 +0800" stop="20260810210000 +0800">
+		<title lang="zh">休闲街区:侦探大迷宫(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810210000 +0800" stop="20260810211500 +0800">
+		<title lang="zh">游戏大厅:方块逃脱(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810211500 +0800" stop="20260810213000 +0800">
+		<title lang="zh">游戏大厅:方块逃脱(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810213000 +0800" stop="20260810214500 +0800">
+		<title lang="zh">游戏大厅:飞天猫(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810214500 +0800" stop="20260810220000 +0800">
+		<title lang="zh">游戏大厅:非一般职场(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260810220000 +0800" stop="20260811000000 +0800">
+		<title lang="zh">巅峰赛场:2022艾欧尼亚杯(20)</title>
 	</programme>
 </tv>
