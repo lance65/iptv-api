@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260813223403 +0800">
+<tv date="20260814105144 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5697,6 +5697,90 @@
 	<programme channel="法治天地" start="20260816012000 +0800" stop="20260816014500 +0800">
 		<title lang="zh">案件聚焦:漫漫执行路</title>
 	</programme>
+	<programme channel="法治天地" start="20260816014500 +0800" stop="20260816022000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260816022000 +0800" stop="20260816024000 +0800">
+		<title lang="zh">律师界(16):海商法修订护航运</title>
+	</programme>
+	<programme channel="法治天地" start="20260816024000 +0800" stop="20260816030500 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816030500 +0800" stop="20260816033000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260816033000 +0800" stop="20260816035500 +0800">
+		<title lang="zh">律师界(16):海商法修订护航运</title>
+	</programme>
+	<programme channel="法治天地" start="20260816035500 +0800" stop="20260816042000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816042000 +0800" stop="20260816045000 +0800">
+		<title lang="zh">案件聚焦:漫漫执行路</title>
+	</programme>
+	<programme channel="法治天地" start="20260816045000 +0800" stop="20260816051000 +0800">
+		<title lang="zh">律师界(16):海商法修订护航运</title>
+	</programme>
+	<programme channel="法治天地" start="20260816051000 +0800" stop="20260816053000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816053000 +0800" stop="20260816060500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260816060500 +0800" stop="20260816063000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816063000 +0800" stop="20260816070000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260816070000 +0800" stop="20260816073000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260816073000 +0800" stop="20260816073700 +0800">
+		<title lang="zh">庭前庭后Ⅳ(4)</title>
+	</programme>
+	<programme channel="法治天地" start="20260816073700 +0800" stop="20260816080500 +0800">
+		<title lang="zh">案件聚焦:漫漫执行路</title>
+	</programme>
+	<programme channel="法治天地" start="20260816080500 +0800" stop="20260816083000 +0800">
+		<title lang="zh">律师界(16):海商法修订护航运</title>
+	</programme>
+	<programme channel="法治天地" start="20260816083000 +0800" stop="20260816090500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260816090500 +0800" stop="20260816093000 +0800">
+		<title lang="zh">案件聚焦:漫漫执行路</title>
+	</programme>
+	<programme channel="法治天地" start="20260816093000 +0800" stop="20260816100000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816100000 +0800" stop="20260816103000 +0800">
+		<title lang="zh">律师界(16):海商法修订护航运</title>
+	</programme>
+	<programme channel="法治天地" start="20260816103000 +0800" stop="20260816110000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260816110000 +0800" stop="20260816112000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816112000 +0800" stop="20260816114000 +0800">
+		<title lang="zh">律师界(16):海商法修订护航运</title>
+	</programme>
+	<programme channel="法治天地" start="20260816114000 +0800" stop="20260816120000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260816120000 +0800" stop="20260816123000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260816123000 +0800" stop="20260816130000 +0800">
+		<title lang="zh">庭前庭后Ⅱ(6):案结</title>
+	</programme>
+	<programme channel="法治天地" start="20260816130000 +0800" stop="20260816133000 +0800">
+		<title lang="zh">案件聚焦:漫漫执行路</title>
+	</programme>
+	<programme channel="法治天地" start="20260816133000 +0800" stop="20260816135500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
 	</channel>
@@ -6692,5 +6776,68 @@
 	</programme>
 	<programme channel="游戏风云" start="20260816013000 +0800" stop="20260816014500 +0800">
 		<title lang="zh">游戏大厅:海绵宝宝(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816014500 +0800" stop="20260816020000 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816020000 +0800" stop="20260816040000 +0800">
+		<title lang="zh">巅峰赛场:英雄联盟百场经典赛事</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816040000 +0800" stop="20260816043000 +0800">
+		<title lang="zh">休闲街区:租房达人(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816043000 +0800" stop="20260816050000 +0800">
+		<title lang="zh">休闲街区:哞哩的长梦</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816050000 +0800" stop="20260816051500 +0800">
+		<title lang="zh">游戏大厅:海绵宝宝(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816051500 +0800" stop="20260816053000 +0800">
+		<title lang="zh">游戏大厅:好公司(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816053000 +0800" stop="20260816054500 +0800">
+		<title lang="zh">游戏大厅:好公司(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816054500 +0800" stop="20260816060000 +0800">
+		<title lang="zh">游戏大厅:好公司(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816060000 +0800" stop="20260816080000 +0800">
+		<title lang="zh">巅峰赛场:2022MSI冠军赛(9)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816080000 +0800" stop="20260816083000 +0800">
+		<title lang="zh">休闲街区:3D找不同</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816083000 +0800" stop="20260816090000 +0800">
+		<title lang="zh">休闲街区:常世之塔</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816090000 +0800" stop="20260816091500 +0800">
+		<title lang="zh">游戏大厅:好公司(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816091500 +0800" stop="20260816093000 +0800">
+		<title lang="zh">游戏大厅:虫虫学院(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816093000 +0800" stop="20260816094500 +0800">
+		<title lang="zh">游戏大厅:混沌银河(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816094500 +0800" stop="20260816100000 +0800">
+		<title lang="zh">游戏大厅:饥荒海滩(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816100000 +0800" stop="20260816120000 +0800">
+		<title lang="zh">巅峰赛场:英雄联盟百场经典赛事</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816120000 +0800" stop="20260816123000 +0800">
+		<title lang="zh">休闲街区:渡神纪(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816123000 +0800" stop="20260816130000 +0800">
+		<title lang="zh">休闲街区:渡神纪(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816130000 +0800" stop="20260816131500 +0800">
+		<title lang="zh">游戏大厅:饥荒海滩(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816131500 +0800" stop="20260816133000 +0800">
+		<title lang="zh">游戏大厅:饥荒海滩(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260816133000 +0800" stop="20260816134500 +0800">
+		<title lang="zh">游戏大厅:机器人开发地(1)</title>
 	</programme>
 </tv>
