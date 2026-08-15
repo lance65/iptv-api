@@ -1,16 +1,31 @@
 🕘️更新时间,#genre#
-2026-08-15 06:15:11,http://125.71.73.4:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-15 18:16:30,http://125.71.73.4:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-2,http://125.71.73.4:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://171.38.148.188:9003/hls/2/index.m3u8
+CCTV-3,http://171.38.148.188:9003/hls/3/index.m3u8
+CCTV-4,http://1.190.240.47:9003/hls/3004/index.m3u8
+CCTV-4,http://171.38.148.188:9003/hls/20/index.m3u8
+CCTV-5,http://171.38.148.188:9003/hls/141/index.m3u8
 CCTV-5,http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://220.192.165.126:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://139.227.21.22:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://1.190.240.47:9003/hls/3018/index.m3u8
+CCTV-6,http://123.175.209.118:9003/hls/7/index.m3u8
+CCTV-6,http://171.38.148.188:9003/hls/6/index.m3u8
+CCTV-7,http://123.175.209.118:9003/hls/8/index.m3u8
+CCTV-7,http://171.38.148.188:9003/hls/7/index.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://1.190.240.47:9003/hls/3055/index.m3u8
+浙江卫视,http://1.190.240.47:9003/hls/3059/index.m3u8
+浙江卫视,http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://220.192.165.126:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://123.175.209.118:9003/hls/20/index.m3u8
+北京卫视,http://171.38.148.188:9003/hls/69/index.m3u8
+湖北卫视,http://171.38.148.188:9003/hls/55/index.m3u8
+河南卫视,http://171.38.148.188:9003/hls/63/index.m3u8
 
 ☘️上海频道,#genre#
 
