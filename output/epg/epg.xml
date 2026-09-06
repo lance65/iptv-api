@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260905232854 +0800">
+<tv date="20260906131939 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3714,9 +3714,6 @@
 	<programme channel="法治天地" start="20260907012000 +0800" stop="20260907014500 +0800">
 		<title lang="zh">案件聚焦:空调维修的骗局</title>
 	</programme>
-	<programme channel="法治天地" start="20260907012000 +0800" stop="20260907014500 +0800">
-		<title lang="zh">案件聚焦:空调维修的骗局</title>
-	</programme>
 	<programme channel="法治天地" start="20260907014500 +0800" stop="20260907022000 +0800">
 		<title lang="zh">和大律师面对面(5094):郑健</title>
 	</programme>
@@ -3800,6 +3797,9 @@
 	</programme>
 	<programme channel="法治天地" start="20260907130000 +0800" stop="20260907133000 +0800">
 		<title lang="zh">案件聚焦:空调维修的骗局</title>
+	</programme>
+	<programme channel="法治天地" start="20260907133000 +0800" stop="20260907135500 +0800">
+		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
 	</programme>
 	<programme channel="法治天地" start="20260907133000 +0800" stop="20260907135500 +0800">
 		<title lang="zh">法治新闻:AI技术滥用乱象调查</title>
@@ -4737,9 +4737,6 @@
 	<programme channel="游戏风云" start="20260907013000 +0800" stop="20260907014500 +0800">
 		<title lang="zh">游戏大厅:小猫咪(3)</title>
 	</programme>
-	<programme channel="游戏风云" start="20260907013000 +0800" stop="20260907014500 +0800">
-		<title lang="zh">游戏大厅:小猫咪(3)</title>
-	</programme>
 	<programme channel="游戏风云" start="20260907014500 +0800" stop="20260907020000 +0800">
 		<title lang="zh">游戏大厅:小猫咪(4)</title>
 	</programme>
@@ -4799,6 +4796,9 @@
 	</programme>
 	<programme channel="游戏风云" start="20260907131500 +0800" stop="20260907133000 +0800">
 		<title lang="zh">游戏大厅:轩辕剑7(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260907133000 +0800" stop="20260907134500 +0800">
+		<title lang="zh">游戏大厅:轩辕剑7(2)</title>
 	</programme>
 	<programme channel="游戏风云" start="20260907133000 +0800" stop="20260907134500 +0800">
 		<title lang="zh">游戏大厅:轩辕剑7(2)</title>
