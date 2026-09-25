@@ -1,17 +1,13 @@
 🕘️更新时间,#genre#
-2026-09-25 08:12:09,http://221.13.235.108:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-25 22:55:16,http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://221.13.235.108:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://221.13.235.108:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://221.13.235.108:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://221.13.235.108:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://221.13.235.108:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://221.13.235.108:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://101.66.194.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️上海频道,#genre#
 
